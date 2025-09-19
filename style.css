@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2e2b2b; /* Dark ocean vibe */
+    height: 100vh;
+  }
+  
+  #gameCanvas {
+    background: #87ceeb; /* Sky-blue backdrop */
+    border: 4px solid #000;
+  }
+  
